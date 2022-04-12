@@ -1,7 +1,7 @@
 * {box-sizing:border-box;}
 body{
 background-color:LightSkyBlue;
-background-image:url(icecream_topleft.jpg);
+background-image:url();
 background-repeat:no-repeat;
 background-size:cover;
 background-attachment:fixed;
@@ -20,7 +20,7 @@ padding:0;
 }
 header{
 background-color:LightSeaGreen;
-background-image:url();
+background-image:url(icecream_topleft.jpg);
 background-repeat: no-repeat;
 color:PaleGreen;
 padding-left: 240px;
